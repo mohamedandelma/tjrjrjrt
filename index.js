@@ -1,5 +1,5 @@
 console.log('✅ㅤstarting...');
-console.log('🧿 PHONIX AR 🍀');
+console.log('🧿 𝙑𝙀𝙉𝙊𝙈 ❤️ 𝙎𝙊𝙆𝙐𝙉𝘼 🍀');
 import {join, dirname} from 'path';
 import {createRequire} from 'module';
 import {fileURLToPath} from 'url';
